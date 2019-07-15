@@ -1,6 +1,7 @@
 '''
 paper titles "Attribute-Aware Non-Linear Co-Embeddings of Graph Features" Accepted in RecSys 2019
 This code was implemented using python 3.5 and TensorFlow  1.7
+We would like to thank "Guocong Song" because we utilized parts of his code from "songgc/TF-recomm" in our implementation
 '''
 
 
