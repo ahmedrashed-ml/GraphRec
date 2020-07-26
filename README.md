@@ -17,7 +17,7 @@ Ahmed Rashed, Josif Grabocka, and Lars Schmidt-Thieme. 2019. Attribute-Aware Non
 Preprint version : https://datasink.ismll.uni-hildesheim.de/oc/index.php/s/S432p92Le3HZscd
 
 ## Supplementary/Extra Results
-###ML100k Experiment using the u1.base/u1.test splits
+### ML100k Experiment using the u1.base/u1.test splits
 
 Model | RMSE
 ------------ | -------------
