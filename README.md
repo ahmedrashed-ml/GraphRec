@@ -1,7 +1,7 @@
 # GraphRec
 This is our implementation for the recsys 2019 paper:
 
-Ahmed Rashed, Josif Grabocka, and Lars Schmidt-Thieme. 2019. Attribute-Aware Non-Linear Co-Embeddings of Graph Features . InThirteenth ACMConference on Recommender Systems (RecSys ’19)
+Rashed, Ahmed, Josif Grabocka, and Lars Schmidt-Thieme. "Attribute-aware non-linear co-embeddings of graph features."13th ACM Conference on Recommender Systems (RecSys). 2019.
 ## Enviroment 
 	* pandas==1.0.3
 	* tensorflow==1.14.0
