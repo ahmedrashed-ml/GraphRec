@@ -11,7 +11,7 @@ Rashed, Ahmed, Josif Grabocka, and Lars Schmidt-Thieme. "Attribute-aware non-lin
 	* scikit_learn==0.23.1
   
 ## Steps
-1. Just uncomment the respective code of the dataset you want to reproduce the results for and run "python GraphRec.py".
+1. Uncomment the respective code of the dataset you want to reproduce the results for and run "python GraphRec.py".
 
 ## Paper
 Preprint version : https://datasink.ismll.uni-hildesheim.de/oc/index.php/s/S432p92Le3HZscd
