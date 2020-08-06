@@ -14,7 +14,7 @@ Rashed, Ahmed, Josif Grabocka, and Lars Schmidt-Thieme. "Attribute-aware non-lin
 1. Uncomment the respective code of the dataset you want to reproduce the results for and run "python GraphRec.py".
 
 ## Paper
-Preprint version : https://datasink.ismll.uni-hildesheim.de/oc/index.php/s/S432p92Le3HZscd
+Preprint version :https://www.ismll.uni-hildesheim.de/pub/pdfs/Ahmed_RecSys19.pdf
 
 ## Supplementary/Extra Results
 ### ML100k Experiment using the u1.base/u1.test splits
